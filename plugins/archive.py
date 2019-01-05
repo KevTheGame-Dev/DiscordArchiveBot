@@ -2,6 +2,7 @@ import json
 from disco.bot import Plugin
 from disco.client import ClientConfig, Client
 from disco.types.channel import MessageIterator
+from disco.types.permissions import Permissions
 
 with open('./config.json') as file:
     data = json.load(file)
@@ -21,6 +22,12 @@ class ArchivePlugin(Plugin):
     def command_archive(self, event):
         #Get all messages from the channel this command is called in
         channel = event.channel
+
+        #check permissions
+        if(not channel.get_permissions(event.member.user).can(Permissions.MANAGE_MESSAGES)):
+            event.msg.reply('Only admins can archive channels.')
+            return
+
         messages = []
         m_iter = MessageIterator(aClient, channel, 'DOWN', True, None, 0)
 
@@ -36,4 +43,5 @@ class ArchivePlugin(Plugin):
         for message in messages:
             print(message.content)
 
-        print(messages[0].__str__())
+        event.member.user.open_dm().send_message(messages[0].__str__())
+        
