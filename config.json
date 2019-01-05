@@ -1,0 +1,9 @@
+{
+    "token": "NTMwODIyOTU0NTQ0NzkxNTYy.DxFBXw.8MUx2_vfGiOclfRscmcSOLNaEuA",
+    "bot": {
+      "plugins": [
+        "plugins.archive",
+        "plugins.help"
+      ]
+    }
+  }
