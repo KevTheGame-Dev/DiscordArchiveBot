@@ -4,10 +4,10 @@ Currently, the only archive format supported is csv. Only admins of a server can
 
 User Confidentiality: Message data is **not** stored permanently. Message data is processed, stored in a file which is then sent to the user. As soon as the bot recieves confirmation that the file has been sent to the user's direct messages, the file is promptly deleted. Message data is never used beyond this messure.
 
-### Usage:
+# Usage:
 ArchiveBot is a Discord Bot created through Discord development tools
 
-#### Adding to Server:
+## Adding to Server:
 Before adding the bot to your server, please note that by default the bot recieves the following permissions:
 1. Read Messages: Enables the bot to pull messages to create archive
 2. Send Messages: Enables the bot to reply with the archive file
@@ -17,8 +17,8 @@ These permissions can be modified when you add the bot, but without them be advi
 
 Click [here](https://discordapp.com/oauth2/authorize?client_id=530822954544791562&scope=bot&permissions=101376) to add the bot. Make sure you're logged in.
 
-#### Commands:
-###### Archive:
+## Commands:
+### Archive:
 `@ArchiveBot archive`
 Creates an archive file (csv), and DM's the requesting admin with the file
 Planned: DMing the archive file, as well as supporting other formats of files
@@ -26,5 +26,5 @@ Planned: DMing the archive file, as well as supporting other formats of files
 `@ArchiveBot help`
 Lists out all commands in chat
 
-#### Libraries Used:
+# Libraries Used:
 [Disco](https://github.com/b1naryth1ef/disco) - A Discord Python library
