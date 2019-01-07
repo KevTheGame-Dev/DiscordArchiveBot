@@ -3,6 +3,9 @@ from disco.bot import Plugin
 from disco.client import ClientConfig, Client
 from disco.types.channel import MessageIterator
 from disco.types.permissions import Permissions
+from datetime import datetime
+
+from converters.toDict import messageToDict
 
 with open('./config.json') as file:
     data = json.load(file)
@@ -12,21 +15,6 @@ aConfig = ClientConfig()
 aConfig.token = AUTH_TOKEN
 aClient = Client(aConfig)
 
-def messageToJSON(self, msgObj):
-    #Helper function. Recieves a Disco msg object and creates a mirror JSON object
-    """ tempData = {}
-    tempData['id'] = msgObj.id
-    tempData['channel_id'] = msgObj.channel_id
-    tempData['author'] = {}
-    tempData['author']['id'] = msgObj.author.id
-    tempData['author']['username'] = msgObj.author.username
-    tempData['content'] = msgObj.content
-    tempData['nonce'] = msgObj.nonce
-    tempData['timestamp'] = msgObj.timestamp
-    tempData['edited_timestamp'] = msgObj.edited_timestamp """
-    tempData = vars(msgObj)
-    print(json.dumps(tempData))
-    return
 
 class ArchivePlugin(Plugin):
     @Plugin.command('ping')
@@ -37,7 +25,7 @@ class ArchivePlugin(Plugin):
     def command_archive(self, event):
         #Get all messages from the channel this command is called in
         channel = event.channel
-        
+        print(channel)
         #check if user calling archive is an admin
         if(not channel.get_permissions(event.member.user).can(Permissions.MANAGE_MESSAGES)):
             event.msg.reply('Only admins can archive channels.')
@@ -51,16 +39,20 @@ class ArchivePlugin(Plugin):
             if(notEmpty):#if buffer not empty
                 temp_mgs = m_iter.next()
                 for m in range(0, len(temp_mgs)):
-                    messages.append(temp_mgs[m])#append each message to message list
+                    msg_Dict = messageToDict(temp_mgs[m])
+                    messages.append(msg_Dict)#append each message to message list
             else:#if buffer is empty, all messages have been retrieved
                 break
 
         #Process messages into file
-        filename = 'data' + str(channel.id) + '.json' #All filenames will be unique
-        #with open('data.json', 'w') as output:
-        #    json.dump(messages.__dict__, output)
-        #for message in messages:
-        #    print(message.content)
+        """ All filenames include channel ID to be unique in the very unlikely chance that 2 calls for channels
+            with the same name are made within the same small amount of time """
+        filename = 'data' + str(channel.id) + '_' + str(channel)[1:] + str(datetime.now().date()) + '.json'
+        print(filename)
+        with open(filename, 'w') as output:
+            json.dump(messages, output, indent=4)
+        with open(filename, 'r') as output:
+            deliverMsg = "Here's your archive of the " + str(channel) + " channel!"
+            event.member.user.open_dm().send_message(deliverMsg, attachments=[(filename, output, 'application/json')])
 
-        event.member.user.open_dm().send_message(messages[0].__str__())
-        messageToJSON(self, messages[0])
+        

@@ -1,6 +1,6 @@
-# DiscordArchiveBots
+# DiscordArchiveBot
 Discord Bot that creates message archive files of channels upon user request. 
-Currently, the only archive format supported is csv. Only admins of a server can use the archive function.
+Currently, the only archive format supported is JSON. Only admins of a server can use the archive function.
 
 User Confidentiality: Message data is **not** stored permanently. Message data is processed, stored in a file which is then sent to the user. As soon as the bot recieves confirmation that the file has been sent to the user's direct messages, the file is promptly deleted. Message data is never used beyond this messure.
 
@@ -25,7 +25,7 @@ Click [here](https://discordapp.com/oauth2/authorize?client_id=53082295454479156
 #### Archive:
 `@ArchiveBot archive`
 Creates an archive file (csv), and DM's the requesting admin with the file
-Planned: DMing the archive file, as well as supporting other formats of files
+Planned: Supporting other file formats, such as CSV
 
 #### Help:
 `@ArchiveBot help`
