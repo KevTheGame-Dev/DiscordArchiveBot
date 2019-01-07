@@ -1,4 +1,5 @@
 import json
+from os import path, remove
 from disco.bot import Plugin
 from disco.client import ClientConfig, Client
 from disco.types.channel import MessageIterator
@@ -54,5 +55,11 @@ class ArchivePlugin(Plugin):
         with open(filename, 'r') as output:
             deliverMsg = "Here's your archive of the " + str(channel) + " channel!"
             event.member.user.open_dm().send_message(deliverMsg, attachments=[(filename, output, 'application/json')])
+        
+        #Remove data file once sent
+        if(path.exists(filename)):
+            remove(filename)
+        else:
+            print("File does not exist")
 
         
