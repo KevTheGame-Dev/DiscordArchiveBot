@@ -14,11 +14,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530837764023779338,
@@ -35,11 +35,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530837766569984000,
@@ -56,11 +56,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530837768390180869,
@@ -77,11 +77,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530837777688952855,
@@ -98,11 +98,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530837780629291018,
@@ -119,11 +119,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530837783221370920,
@@ -140,11 +140,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530837786845249547,
@@ -161,11 +161,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530837791421104128,
@@ -182,11 +182,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530837793744879639,
@@ -203,11 +203,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530837803349835816,
@@ -224,11 +224,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530837804511526953,
@@ -245,11 +245,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530837806365278218,
@@ -266,11 +266,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530837808730996746,
@@ -287,11 +287,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530837810220105731,
@@ -308,11 +308,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530837813684600872,
@@ -329,11 +329,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530899468598509583,
@@ -350,11 +350,19 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530899469856931868,
@@ -371,11 +379,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901136190734337,
@@ -392,11 +400,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901138741002280,
@@ -413,11 +421,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901140749942797,
@@ -434,11 +442,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901142037856277,
@@ -455,11 +463,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901143564320769,
@@ -476,11 +484,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901145271402506,
@@ -497,11 +505,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901146592870405,
@@ -518,11 +526,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901147725201428,
@@ -539,11 +547,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901148849405983,
@@ -560,11 +568,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901149981868042,
@@ -581,11 +589,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901178834223135,
@@ -602,11 +610,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901179576614932,
@@ -623,11 +631,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901179685666818,
@@ -644,11 +652,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901180700819467,
@@ -665,11 +673,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901181241884687,
@@ -686,11 +694,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901181816504320,
@@ -707,11 +715,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901192554053632,
@@ -728,11 +736,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901195355848704,
@@ -749,11 +757,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901197872168970,
@@ -770,11 +778,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901200531357746,
@@ -791,11 +799,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901234706808832,
@@ -812,11 +820,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901238351659009,
@@ -833,11 +841,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901243195818000,
@@ -854,11 +862,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901244852830229,
@@ -875,11 +883,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901247172280320,
@@ -896,11 +904,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901249126694923,
@@ -917,11 +925,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901250955411457,
@@ -938,11 +946,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901253224661002,
@@ -959,11 +967,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901254960840735,
@@ -980,11 +988,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901257490268183,
@@ -1001,11 +1009,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901278293884998,
@@ -1022,11 +1030,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901280072138773,
@@ -1043,11 +1051,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901299366199296,
@@ -1064,11 +1072,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901301228470272,
@@ -1085,11 +1093,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901306857095168,
@@ -1106,11 +1114,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901308631285775,
@@ -1127,11 +1135,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901311319834644,
@@ -1148,11 +1156,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901313286963210,
@@ -1169,11 +1177,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901315455549460,
@@ -1190,11 +1198,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901317862817811,
@@ -1211,11 +1219,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901319838597121,
@@ -1232,11 +1240,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901326868250625,
@@ -1253,11 +1261,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901487069429771,
@@ -1274,11 +1282,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901488449486848,
@@ -1295,11 +1303,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901491100286997,
@@ -1316,11 +1324,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901493285519390,
@@ -1337,11 +1345,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901495160504350,
@@ -1358,11 +1366,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901497702252576,
@@ -1379,11 +1387,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901499283505182,
@@ -1400,11 +1408,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901501896294400,
@@ -1421,11 +1429,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901514487857163,
@@ -1442,11 +1450,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901545945137198,
@@ -1463,11 +1471,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901549019430955,
@@ -1484,11 +1492,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901552219553822,
@@ -1505,11 +1513,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901556820836352,
@@ -1526,11 +1534,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901566283055104,
@@ -1547,11 +1555,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901570360180766,
@@ -1568,11 +1576,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901574713737226,
@@ -1589,11 +1597,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901578002071553,
@@ -1610,11 +1618,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901595240661037,
@@ -1631,11 +1639,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901602496675870,
@@ -1652,11 +1660,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901610705059897,
@@ -1673,11 +1681,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901621748662282,
@@ -1694,11 +1702,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901625989234720,
@@ -1715,11 +1723,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901632527892500,
@@ -1736,11 +1744,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901636026204162,
@@ -1757,11 +1765,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901639125663752,
@@ -1778,11 +1786,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901644699762688,
@@ -1799,11 +1807,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901649623875587,
@@ -1820,11 +1828,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901657400246309,
@@ -1841,11 +1849,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901672113733663,
@@ -1862,11 +1870,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901688299683840,
@@ -1883,11 +1891,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901694205132801,
@@ -1904,11 +1912,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901703315161100,
@@ -1925,11 +1933,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901708948111381,
@@ -1946,11 +1954,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901714073681961,
@@ -1967,11 +1975,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901721518571530,
@@ -1988,11 +1996,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901731731570688,
@@ -2009,11 +2017,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901737264119819,
@@ -2030,11 +2038,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901743475621888,
@@ -2051,11 +2059,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901752950554624,
@@ -2072,11 +2080,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901764853989377,
@@ -2093,11 +2101,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901773725204499,
@@ -2114,11 +2122,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901779135856641,
@@ -2135,11 +2143,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901783690739712,
@@ -2156,11 +2164,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901792993837106,
@@ -2177,11 +2185,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901806209826878,
@@ -2198,11 +2206,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901818897596417,
@@ -2219,11 +2227,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901822584389642,
@@ -2240,11 +2248,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901837935673346,
@@ -2261,11 +2269,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901850707460116,
@@ -2282,11 +2290,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901856231227413,
@@ -2303,11 +2311,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901861968904224,
@@ -2324,11 +2332,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901866645553202,
@@ -2345,11 +2353,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901870659764224,
@@ -2366,11 +2374,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901877702000660,
@@ -2387,11 +2395,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901883699855360,
@@ -2408,11 +2416,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901887999016970,
@@ -2429,11 +2437,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901892855889920,
@@ -2450,11 +2458,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901896278442044,
@@ -2471,11 +2479,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530901903630925824,
@@ -2492,11 +2500,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530903063116906507,
@@ -2513,11 +2521,19 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530903438918418472,
@@ -2534,11 +2550,19 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530909098053730324,
@@ -2555,11 +2579,19 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530910050575843338,
@@ -2576,11 +2608,19 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530910305362903041,
@@ -2597,11 +2637,19 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530910617649807360,
@@ -2618,11 +2666,19 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530910726194200587,
@@ -2639,11 +2695,19 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530912497683660802,
@@ -2660,11 +2724,19 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530912720308928512,
@@ -2681,11 +2753,19 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530913290352853012,
@@ -2702,11 +2782,19 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530927869816209408,
@@ -2723,11 +2811,19 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530948647576272896,
@@ -2744,11 +2840,19 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530950615380131840,
@@ -2765,11 +2869,19 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530950786780233738,
@@ -2786,11 +2898,19 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530950787262840842,
@@ -2807,11 +2927,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530951152116826114,
@@ -2828,11 +2948,21 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [
+            {
+                "id": "530951152116826112",
+                "filename": "temp.png",
+                "url": "https://cdn.discordapp.com/attachments/530837744096903168/530951152116826112/temp.png",
+                "proxy_url": "https://media.discordapp.net/attachments/530837744096903168/530951152116826112/temp.png",
+                "size": 23438,
+                "height": 104,
+                "width": 272
+            }
+        ],
+        "reactions": []
     },
     {
         "id": 530951187391053824,
@@ -2849,11 +2979,19 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 530951208043544586,
@@ -2870,11 +3008,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 531172043429904384,
@@ -2891,11 +3029,19 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 531172091349696553,
@@ -2912,11 +3058,19 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 531174336153911296,
@@ -2933,11 +3087,19 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 531174453846081546,
@@ -2954,11 +3116,19 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 531174652303638529,
@@ -2975,11 +3145,19 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 531174776950226964,
@@ -2996,11 +3174,19 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 531175050104012812,
@@ -3017,11 +3203,19 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 531179794180603924,
@@ -3038,11 +3232,19 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 531180034963144704,
@@ -3059,11 +3261,19 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 531180595368165387,
@@ -3080,11 +3290,19 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 531181281120223232,
@@ -3101,11 +3319,19 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 531182098577621002,
@@ -3122,11 +3348,19 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 531499095701979146,
@@ -3143,11 +3377,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "True",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 531499097522176000,
@@ -3164,11 +3398,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "True",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 531499098692386849,
@@ -3185,11 +3419,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "True",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 531499102609997834,
@@ -3206,11 +3440,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "True",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 531499103432212490,
@@ -3227,11 +3461,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "True",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 531499124441219082,
@@ -3248,11 +3482,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "True",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 531499152983457806,
@@ -3269,11 +3503,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "True",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 531499154170576916,
@@ -3290,11 +3524,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "True",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 531499155089129472,
@@ -3311,11 +3545,11 @@
         "edited_timestamp": "None",
         "mention_everyone": "True",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 531555211680940042,
@@ -3332,11 +3566,19 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 531893932674514963,
@@ -3353,11 +3595,19 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 531895602988974090,
@@ -3374,11 +3624,19 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 531896023321149451,
@@ -3395,11 +3653,19 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 531897766998179842,
@@ -3416,11 +3682,19 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 531898149082628128,
@@ -3437,11 +3711,19 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 531898369971585035,
@@ -3458,11 +3740,19 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 531899779739811860,
@@ -3479,11 +3769,19 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 531899889844748288,
@@ -3500,11 +3798,19 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 531912964148822026,
@@ -3521,11 +3827,19 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 531913206021750816,
@@ -3542,11 +3856,19 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 531913847355867172,
@@ -3563,11 +3885,19 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 531913993825157163,
@@ -3584,11 +3914,19 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 531914238277713944,
@@ -3605,11 +3943,19 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 531918389342371871,
@@ -3626,11 +3972,19 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 531918418111234068,
@@ -3647,11 +4001,19 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 531918520930533376,
@@ -3668,11 +4030,19 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 531919376274685962,
@@ -3689,11 +4059,19 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 531920902892552192,
@@ -3710,11 +4088,19 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 531921652007567390,
@@ -3731,11 +4117,19 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 531922010721353739,
@@ -3752,11 +4146,19 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 531922920801435658,
@@ -3773,11 +4175,19 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 531924945542971433,
@@ -3794,11 +4204,19 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 531925106012717056,
@@ -3815,11 +4233,19 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 532309870100217857,
@@ -3836,11 +4262,19 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 532310053907202059,
@@ -3857,11 +4291,21 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [
+            {
+                "id": "532310053907202058",
+                "filename": "doggo.jpg",
+                "url": "https://cdn.discordapp.com/attachments/530837744096903168/532310053907202058/doggo.jpg",
+                "proxy_url": "https://media.discordapp.net/attachments/530837744096903168/532310053907202058/doggo.jpg",
+                "size": 141530,
+                "height": 542,
+                "width": 750
+            }
+        ],
+        "reactions": []
     },
     {
         "id": 532310094919106619,
@@ -3878,11 +4322,21 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [
+            {
+                "id": "532310094294286370",
+                "filename": "doggo.jpg",
+                "url": "https://cdn.discordapp.com/attachments/530837744096903168/532310094294286370/doggo.jpg",
+                "proxy_url": "https://media.discordapp.net/attachments/530837744096903168/532310094294286370/doggo.jpg",
+                "size": 141530,
+                "height": 542,
+                "width": 750
+            }
+        ],
+        "reactions": []
     },
     {
         "id": 532310435873947649,
@@ -3899,11 +4353,19 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 532313262285652010,
@@ -3920,11 +4382,19 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 532314363240120320,
@@ -3941,11 +4411,19 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 532314522673741826,
@@ -3962,11 +4440,19 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 532314612238909441,
@@ -3983,11 +4469,19 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 532314696674705439,
@@ -4004,11 +4498,19 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 532316779427659799,
@@ -4025,11 +4527,19 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 532317273919062028,
@@ -4046,11 +4556,19 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 532320074850369539,
@@ -4067,11 +4585,19 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 532320784908025877,
@@ -4088,11 +4614,19 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 532321603758063629,
@@ -4109,11 +4643,19 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 532327758529822722,
@@ -4130,11 +4672,19 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 533050127703605248,
@@ -4151,11 +4701,19 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 533050393140396048,
@@ -4172,11 +4730,19 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 533050525302784040,
@@ -4193,11 +4759,19 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 533050952702361621,
@@ -4214,11 +4788,19 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 533051313760632832,
@@ -4235,11 +4817,19 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 533051482682163208,
@@ -4256,11 +4846,19 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 533051724815138816,
@@ -4277,11 +4875,19 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 533051910937247745,
@@ -4298,11 +4904,19 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 533052875878694922,
@@ -4319,11 +4933,19 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 533053099519246344,
@@ -4340,11 +4962,19 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 533055000470093824,
@@ -4361,11 +4991,19 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 533083359749079053,
@@ -4382,11 +5020,19 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 533083517278748692,
@@ -4403,11 +5049,19 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 533088827808677888,
@@ -4424,11 +5078,19 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 533091948131778571,
@@ -4445,11 +5107,19 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     },
     {
         "id": 533093674226286594,
@@ -4466,10 +5136,134 @@
         "edited_timestamp": "None",
         "mention_everyone": "False",
         "pinned": "False",
-        "mentions": null,
-        "mention_roles": null,
-        "embeds": null,
-        "attachments": null,
-        "reactions": null
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
+    },
+    {
+        "id": 533112497046159370,
+        "type": "default",
+        "author": {
+            "id": 159715019456643072,
+            "username": "Zedasi",
+            "avatar": "https://cdn.discordapp.com/avatars/159715019456643072/54b849c045408b9a52d4876ec49bf56b.webp?size=1024",
+            "discriminator": "8090",
+            "bot": "False"
+        },
+        "content": "@ArchiveBot#2819 archive",
+        "timestamp": "2019-01-11 02:38:44.047000",
+        "edited_timestamp": "None",
+        "mention_everyone": "False",
+        "pinned": "False",
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
+    },
+    {
+        "id": 533130948812996615,
+        "type": "default",
+        "author": {
+            "id": 159715019456643072,
+            "username": "Zedasi",
+            "avatar": "https://cdn.discordapp.com/avatars/159715019456643072/54b849c045408b9a52d4876ec49bf56b.webp?size=1024",
+            "discriminator": "8090",
+            "bot": "False"
+        },
+        "content": "@ArchiveBot#2819 archive",
+        "timestamp": "2019-01-11 03:52:03.291000",
+        "edited_timestamp": "None",
+        "mention_everyone": "False",
+        "pinned": "False",
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
+    },
+    {
+        "id": 533131343610249218,
+        "type": "default",
+        "author": {
+            "id": 159715019456643072,
+            "username": "Zedasi",
+            "avatar": "https://cdn.discordapp.com/avatars/159715019456643072/54b849c045408b9a52d4876ec49bf56b.webp?size=1024",
+            "discriminator": "8090",
+            "bot": "False"
+        },
+        "content": "@ArchiveBot#2819 archive",
+        "timestamp": "2019-01-11 03:53:37.418000",
+        "edited_timestamp": "None",
+        "mention_everyone": "False",
+        "pinned": "False",
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
+    },
+    {
+        "id": 533133569829240832,
+        "type": "default",
+        "author": {
+            "id": 159715019456643072,
+            "username": "Zedasi",
+            "avatar": "https://cdn.discordapp.com/avatars/159715019456643072/54b849c045408b9a52d4876ec49bf56b.webp?size=1024",
+            "discriminator": "8090",
+            "bot": "False"
+        },
+        "content": "@ArchiveBot#2819 archive",
+        "timestamp": "2019-01-11 04:02:28.190000",
+        "edited_timestamp": "None",
+        "mention_everyone": "False",
+        "pinned": "False",
+        "mentions": [
+            {
+                "id": 530822954544791562,
+                "username": "ArchiveBot",
+                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                "discriminator": "2819",
+                "bot": "True"
+            }
+        ],
+        "mention_roles": [],
+        "embeds": [],
+        "attachments": [],
+        "reactions": []
     }
 ]
