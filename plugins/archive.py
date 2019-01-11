@@ -6,7 +6,8 @@ from disco.types.channel import MessageIterator
 from disco.types.permissions import Permissions
 from datetime import datetime
 
-from converters.toDict import messageToDict
+from util.toDict import messageToDict
+from util.encoders import MessageEncoder
 
 with open('./config.json') as file:
     data = json.load(file)
@@ -34,6 +35,7 @@ class ArchivePlugin(Plugin):
 
         #Get all messages in the channel
         messages = []
+        _messages = []
         m_iter = MessageIterator(aClient, channel, 'DOWN', True, None, 0)#Message iterator obj uses pagination. Max buffer size is 100
         while True:
             notEmpty = m_iter.fill() #Fills the buffer, returns whether buffer has items
@@ -42,6 +44,7 @@ class ArchivePlugin(Plugin):
                 for m in range(0, len(temp_mgs)):
                     msg_Dict = messageToDict(temp_mgs[m])
                     messages.append(msg_Dict)#append each message to message list
+                    _messages.append(temp_mgs[m])
             else:#if buffer is empty, all messages have been retrieved
                 break
 
@@ -52,14 +55,14 @@ class ArchivePlugin(Plugin):
         print(filename)
         with open(filename, 'w') as output:
             json.dump(messages, output, indent=4)
+        with open("_"+filename, 'w') as output:
+            json.dump(_messages, output, indent=4, cls=MessageEncoder)
         with open(filename, 'r') as output:
             deliverMsg = "Here's your archive of the " + str(channel) + " channel!"
             event.member.user.open_dm().send_message(deliverMsg, attachments=[(filename, output, 'application/json')])
         
         #Remove data file once sent
-        if(path.exists(filename)):
+        """ if(path.exists(filename)):
             remove(filename)
         else:
-            print("File does not exist")
-
-        
+            print("File does not exist") """
