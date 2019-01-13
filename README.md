@@ -23,9 +23,8 @@ Click [here](https://discordapp.com/oauth2/authorize?client_id=53082295454479156
 
 ## Commands:
 #### Archive:
-`@ArchiveBot archive`
-Creates an archive file (csv), and DM's the requesting admin with the file
-Planned: Supporting other file formats, such as CSV
+`@ArchiveBot archive [--JSON][--CSV]`
+Creates an archive file (JSON or CSV), and DM's the requesting admin with the file
 
 #### Help:
 `@ArchiveBot help`
