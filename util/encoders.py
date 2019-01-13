@@ -6,7 +6,7 @@ from disco.types.message import (Message, MessageAttachment, MessageEmbed,
   MessageEmbedThumbnail, MessageEmbedVideo, MessageReaction, MessageReactionEmoji, Emoji)
 from disco.types.user import User
 from disco.types.guild import Role
-from disco.types.base import (ListField, AutoDictField)
+from disco.types.base import (ListField, AutoDictField, Unset)
 
 
 class UserEncoder(json.JSONEncoder):
@@ -94,6 +94,9 @@ class MessageEmbedFieldEncoder(json.JSONEncoder):
 class MessageEmbedEncoder(json.JSONEncoder):
     def default(self, embed):
         if isinstance(embed, MessageEmbed):
+            _fields = []
+            for x in range(0, len(embed.fields)):
+                _fields.append(MessageEmbedFieldEncoder.default(self, embed.fields[x]))
             return {
                 'title': embed.title,
                 'type': embed.type,
@@ -105,7 +108,7 @@ class MessageEmbedEncoder(json.JSONEncoder):
                 'thumbnail': MessageEmbedThumbnailEncoder.default(self, embed.thumbnail),
                 'video': MessageEmbedVideoEncoder.default(self, embed.video),
                 'author': MessageEmbedAuthorEncoder.default(self, embed.author),
-                'fields': MessageEmbedFieldEncoder.default(self, embed.fields)
+                'fields': _fields
             }
         return json.JSONEncoder.default(self, embed)
 
@@ -203,4 +206,6 @@ class MessageEncoder(json.JSONEncoder):
                 'attachments': MessageEncoder._encodeDict(self, msg.attachments, _EncodeDictEnum.Attachments.name),
                 'reactions': MessageEncoder._encodeList(self, msg.reactions, _EncodeListEnum.Reactions.name)
             }
+        if isinstance(msg, Unset):
+            return None
         return json.JSONEncoder.default(self, msg)

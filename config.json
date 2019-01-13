@@ -1,1 +1,1 @@
-{"token": "", "bot": {"plugins": ["plugins.archive", "plugins.help"]}}
+{"token": "", "debug": false, "bot": {"plugins": ["plugins.archive", "plugins.help"]}}
