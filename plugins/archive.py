@@ -4,7 +4,7 @@ from os import path, remove
 #from argparse import ArgumentParser
 
 from disco.bot import Plugin
-from disco.client import ClientConfig, Client
+from disco.client import ClientConfig, Client, APIClient
 from disco.types.channel import MessageIterator
 from disco.types.permissions import Permissions
 from datetime import datetime
@@ -17,9 +17,9 @@ with open('./config.json') as file:#Pull config variables from file
 AUTH_TOKEN = data['token']
 DEBUG = data['debug']
 
-aConfig = ClientConfig()
-aConfig.token = AUTH_TOKEN
-aClient = Client(aConfig)
+mConfig = ClientConfig()
+mConfig.token = AUTH_TOKEN
+mClient = Client(mConfig)
 
 
 class ArchivePlugin(Plugin):
@@ -45,7 +45,7 @@ class ArchivePlugin(Plugin):
 
         #Get all messages in the channel
         messages = []
-        m_iter = MessageIterator(aClient, channel, 'DOWN', True, None, 0)#Message iterator obj uses pagination. Max buffer size is 100
+        m_iter = MessageIterator(self.bot.client, channel, 'DOWN', True, None, 0)#Message iterator obj uses pagination. Max buffer size is 100
         while True:
             notEmpty = m_iter.fill() #Fills the buffer, returns whether buffer has items
             if(notEmpty):#if buffer not empty

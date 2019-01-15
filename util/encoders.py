@@ -7,7 +7,14 @@ from disco.types.message import (Message, MessageAttachment, MessageEmbed,
 from disco.types.user import User
 from disco.types.guild import Role
 from disco.types.base import (ListField, AutoDictField, Unset)
+from disco.client import APIClient
 
+with open('./config.json') as file:#Pull config variables from file
+    data = json.load(file)
+AUTH_TOKEN = data['token']
+DEBUG = data['debug']
+
+aClient = APIClient(AUTH_TOKEN)
 
 class UserEncoder(json.JSONEncoder):
     def default(self, user):
@@ -149,7 +156,7 @@ class MessageReactionEncoder(json.JSONEncoder):
 
 
 class RolesEncoder(json.JSONEncoder):
-    def default(self, role):
+    def default(self, role, guildID=None):
         if isinstance(role, Role):
             return {
                 'name': role.name
@@ -178,11 +185,17 @@ class MessageEncoder(json.JSONEncoder):
                 temp_arr.append(MessageAttachmentEncoder.default(self, e_dict[m]))
         return temp_arr
 
-    def _encodeList(self, e_list, enumName):#Roles:List
+    def _encodeList(self, e_list, enumName, guild=None):#Roles:List
         temp_arr = []
         for x in range(0, len(e_list)):
             if(enumName is _EncodeListEnum.Roles.name):
-                temp_arr.append(RolesEncoder.default(self, e_list[x]))
+                if isinstance(e_list[x], int):
+                    try:
+                        temp_arr.append(RolesEncoder.default(self, guild.roles[e_list[x]]))
+                    except KeyError:
+                        temp_arr.append({ 'name': 'deleted-role' })
+                else:
+                    temp_arr.append(RolesEncoder.default(self, e_list[x]))
             elif(enumName is _EncodeListEnum.Embeds.name):
                 temp_arr.append(MessageEmbedEncoder.default(self, e_list[x]))
             elif(enumName is _EncodeListEnum.Reactions.name):
@@ -201,7 +214,7 @@ class MessageEncoder(json.JSONEncoder):
                 'mention_everyone': str(msg.mention_everyone),
                 'pinned': str(msg.pinned),
                 'mentions': MessageEncoder._encodeDict(self, msg.mentions, _EncodeDictEnum.Mentions.name),
-                'mention_roles': MessageEncoder._encodeList(self, msg.mention_roles, _EncodeListEnum.Roles.name),
+                'mention_roles': MessageEncoder._encodeList(self, msg.mention_roles, _EncodeListEnum.Roles.name, msg.guild),
                 'embeds': MessageEncoder._encodeList(self, msg.embeds, _EncodeListEnum.Embeds.name),
                 'attachments': MessageEncoder._encodeDict(self, msg.attachments, _EncodeDictEnum.Attachments.name),
                 'reactions': MessageEncoder._encodeList(self, msg.reactions, _EncodeListEnum.Reactions.name)
